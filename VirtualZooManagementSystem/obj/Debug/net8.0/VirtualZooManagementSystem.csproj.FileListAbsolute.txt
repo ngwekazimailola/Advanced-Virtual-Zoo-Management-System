@@ -1,0 +1,14 @@
+C:\Users\hanna\Downloads\SCHOOL\SOFTWARE DEVELOPMENT\SEMESTER1\FORMATIVES\VirtualZooManagementSystem\bin\Debug\net8.0\VirtualZooManagementSystem.exe
+C:\Users\hanna\Downloads\SCHOOL\SOFTWARE DEVELOPMENT\SEMESTER1\FORMATIVES\VirtualZooManagementSystem\bin\Debug\net8.0\VirtualZooManagementSystem.deps.json
+C:\Users\hanna\Downloads\SCHOOL\SOFTWARE DEVELOPMENT\SEMESTER1\FORMATIVES\VirtualZooManagementSystem\bin\Debug\net8.0\VirtualZooManagementSystem.runtimeconfig.json
+C:\Users\hanna\Downloads\SCHOOL\SOFTWARE DEVELOPMENT\SEMESTER1\FORMATIVES\VirtualZooManagementSystem\bin\Debug\net8.0\VirtualZooManagementSystem.dll
+C:\Users\hanna\Downloads\SCHOOL\SOFTWARE DEVELOPMENT\SEMESTER1\FORMATIVES\VirtualZooManagementSystem\bin\Debug\net8.0\VirtualZooManagementSystem.pdb
+C:\Users\hanna\Downloads\SCHOOL\SOFTWARE DEVELOPMENT\SEMESTER1\FORMATIVES\VirtualZooManagementSystem\obj\Debug\net8.0\VirtualZooManagementSystem.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\hanna\Downloads\SCHOOL\SOFTWARE DEVELOPMENT\SEMESTER1\FORMATIVES\VirtualZooManagementSystem\obj\Debug\net8.0\VirtualZooManagementSystem.AssemblyInfoInputs.cache
+C:\Users\hanna\Downloads\SCHOOL\SOFTWARE DEVELOPMENT\SEMESTER1\FORMATIVES\VirtualZooManagementSystem\obj\Debug\net8.0\VirtualZooManagementSystem.AssemblyInfo.cs
+C:\Users\hanna\Downloads\SCHOOL\SOFTWARE DEVELOPMENT\SEMESTER1\FORMATIVES\VirtualZooManagementSystem\obj\Debug\net8.0\VirtualZooManagementSystem.csproj.CoreCompileInputs.cache
+C:\Users\hanna\Downloads\SCHOOL\SOFTWARE DEVELOPMENT\SEMESTER1\FORMATIVES\VirtualZooManagementSystem\obj\Debug\net8.0\VirtualZooManagementSystem.dll
+C:\Users\hanna\Downloads\SCHOOL\SOFTWARE DEVELOPMENT\SEMESTER1\FORMATIVES\VirtualZooManagementSystem\obj\Debug\net8.0\refint\VirtualZooManagementSystem.dll
+C:\Users\hanna\Downloads\SCHOOL\SOFTWARE DEVELOPMENT\SEMESTER1\FORMATIVES\VirtualZooManagementSystem\obj\Debug\net8.0\VirtualZooManagementSystem.pdb
+C:\Users\hanna\Downloads\SCHOOL\SOFTWARE DEVELOPMENT\SEMESTER1\FORMATIVES\VirtualZooManagementSystem\obj\Debug\net8.0\VirtualZooManagementSystem.genruntimeconfig.cache
+C:\Users\hanna\Downloads\SCHOOL\SOFTWARE DEVELOPMENT\SEMESTER1\FORMATIVES\VirtualZooManagementSystem\obj\Debug\net8.0\ref\VirtualZooManagementSystem.dll
